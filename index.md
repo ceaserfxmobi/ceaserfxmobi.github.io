@@ -73,6 +73,17 @@ As Brian Solis urges us—disruptive technology is catalyst for change, not the 
 
 
 #  Why is big data such a big deal for mobile computing?
+
+First, big data needs to be defined
+       Big data is most commonly defined as data sets that meet three attributes, known as the three "Vs": volume, variety, and velocity. But there is something more to it. "I like to say there's a fourth V: value," says Kipp Jones, vice president of product at Skyhook. In order for data to be meaningful at all, it needs to be captured and stored efficiently. Then someone has to manage the data, analyze it, and extract value from it. Data, big or not, doesn't add up to anything worthwhile if it doesn't have value to someone.
+
+Mobile is particularly well-suited to a big data lens
+      Mobile big data isn't only a function of smart phone penetration and consumer usage patterns. The data is also created by apps or other services working in the background. Technically speaking, its not that different from data created using the traditional Web. The difference is that consumers are just producing more of it as we shift our behavior to digital channels, leaving a trail of data documenting our movements and actions. Even when we are ostensibly not using our phones, we are still creating reams of data.
+
+This data can be used to optimize and personalize mobile experiences
+      Mobile big data can be used for a dizzying variety of purposes, but it is often used for the optimization and personalization of mobile services. App developers, for example, might use Flurry's analytics to improve their apps. Retention is a key metric for developers. Developers can compare their user retention numbers with all other apps and apps within their own categories, to gain insight into how they stack up, and what they might have to change to improve their numbers.
+Or to help drive an explosion in mobile advertising: Location data is an essential component of mobile big data — perhaps the primary data type that differentiates mobile from Web-based big data. Location data is expected to help transform the mobile advertising industry. The ability to deliver real-time hyper-local, targeted advertising represents a potentially momentous evolution of the ad market.
+
 ## Header 2
 ### Header 3
 
